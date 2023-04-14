@@ -1,0 +1,6 @@
+Number of Processors,Number of Elements,Performance (mega-autocorrelations computed per second,,,,,,1,223.46
+1,8388608,223.46,,,,,,2,434.91
+2,8388608,434.91,,,,,,4,864.5
+4,8388608,864.5,,,,,,8,1608.25
+8,8388608,1608.25,,,,,,12,2077.67
+12,8388608,2077.67,,,,,,,
